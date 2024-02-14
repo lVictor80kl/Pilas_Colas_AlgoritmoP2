@@ -1,0 +1,11 @@
+{
+    "ruta_respaldo": "respaldo",
+    "ruta_unidades": "unidades",
+    "ruta_operaciones_errores": "operaciones_errores",
+    "unidades": [
+        {
+            "nombre_archivo": "Unidad C.json"
+        }
+    ],
+    "nombre_archivo_operaciones_errores": "historial_operaciones_errores.json"
+}

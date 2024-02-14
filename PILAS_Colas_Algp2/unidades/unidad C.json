@@ -1,0 +1,42 @@
+{
+    "nombre": "C:",
+    "fecha_hora": "14/02/2024  10:12 AM",
+    "archivos": [
+        {
+            "nombre": "carpeta2",
+            "fecha_hora": "14/02/2024  10:12 AM",
+            "archivos": []
+        },
+        {
+            "nombre": "carpeta3",
+            "fecha_hora": "14/02/2024 12:08 PM",
+            "archivos": []
+        },
+        {
+            "nombre": "carpeta1",
+            "fecha_hora": "14/02/2024 03:50 PM",
+            "archivos": [
+                {
+                    "nombre": "subcarpeta3",
+                    "fecha_hora": "14/02/2024 03:50 PM",
+                    "archivos": []
+                },
+                {
+                    "nombre": "archivo2.txt",
+                    "contenido": "Nuevo archivo 2",
+                    "fecha_hora": "14/02/2024 05:13 PM"
+                }
+            ]
+        },
+        {
+            "nombre": "archivo.txt",
+            "contenido": "Nuevo archivo",
+            "fecha_hora": "14/02/2024 05:10 PM"
+        },
+        {
+            "nombre": "archivo2.txt",
+            "contenido": "Nuevo archivo 2",
+            "fecha_hora": "14/02/2024 05:11 PM"
+        }
+    ]
+}
